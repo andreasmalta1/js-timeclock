@@ -1,0 +1,25 @@
+body{
+    display: inline;
+    vertical-align: middle;
+}
+
+.calendar{
+    text-align: center;
+    color: red;
+}
+
+#clock{
+    visibility: hidden;
+    text-align: center;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+}
+
+
+
+/* div{
+    position: relative;
+    border: 3px solid green
+} */
